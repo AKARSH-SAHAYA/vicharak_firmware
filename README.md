@@ -1,4 +1,4 @@
-# ESP32 SPIFFS HTTP Client Example
+# ESP32 SPIFFS HTTP Client 
 
 This project demonstrates how to use ESP32's SPIFFS filesystem to download and store HTTP response data while monitoring write performance in real-time.
 
