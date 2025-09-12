@@ -145,10 +145,3 @@ The application uses ESP32's event system to handle:
 3. **HTTP Errors**: Ensure internet connectivity and target URL accessibility
 4. **Performance Issues**: Adjust buffer size or check flash memory health
 
-## License
-
-This example code is in the Public Domain (or CC0 licensed, at your option.)
-
-## Contributing
-
-Feel free to submit issues and enhancement requests!
